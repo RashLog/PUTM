@@ -1,0 +1,16 @@
+METHOD:
+  method: 'PUTM'
+  epochs: 30    # inner epochs
+  n_epochs: 50  # outer epochs
+  lr: 0.001     # learning rate for bnav
+  rho: 0.5
+  alpha: [0.2, 0.1]   #learning rate for MAP
+  beta: 0.6
+  lam: 10
+  theta: 0.0
+  hidden: 128
+  use_km: False
+  use_plda: False
+  T_km: 100
+  clp: 1
+  preprocess: "MESV" #"MESV"

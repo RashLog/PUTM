@@ -1,0 +1,8 @@
+METHOD:
+  method: 'BAVARDAGE'
+  nIter_vb: 5
+  nIter_km: 5
+  T_vb: [4, 40, 100]
+  T_km: 10
+  clp: [5, 1, 1]
+  preprocess: 'MESV'

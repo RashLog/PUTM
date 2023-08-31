@@ -1,0 +1,8 @@
+METHOD:
+  method: 'iLPC'
+  alpha: 0.8
+  K: 20
+  T: 3
+  denoising_iterations: 100
+  sinkhorn_iter: 1
+  best_samples: 3
