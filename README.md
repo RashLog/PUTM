@@ -12,6 +12,8 @@ For WRN-28-10(S2M2) backbone, we used the pre-trained features provided by [S2M2
 
 For WRN-28-10(softmax) and ResNet18 backbones, we used the pre-trained features provided by [TIM](https://github.com/mboudiaf/TIM) and can be downloaded from here [checkpoints](https://www.icloud.com/iclouddrive/0f3PFO3rJK0fk0nkCe8sDKAiQ#TIM).
 
+If the above links are not available, you can also download features from here [features](https://drive.google.com/file/d/1RO1X989fK97ChSfPdhjDFccyu8FWUpZy/view?usp=sharing).
+
 ## Code Structure
 ```sh
 ├── features
